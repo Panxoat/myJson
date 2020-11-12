@@ -1,14 +1,12 @@
 {
     "posts": [
-      { "data": 200, "title": "Post 1" },
-      { "data": 300, "title": "Post 2" },
-      { "data": 400, "title": "Post 3" }
+      { "data": 200, "title": "수선 건" }
     ],
     "comments": [
-        { "data": 100, "title": "Post 1" },
-        { "data": 100, "title": "Post 2" },
-        { "data": 100, "title": "Post 3" },
-        { "data": 700, "title": "Post 4" }
+        { "data": 100, "title": "청바지" },
+        { "data": 100, "title": "치마" },
+        { "data": 100, "title": "원피스" },
+        { "data": 700, "title": "바지" }
     ],
     "profile": {
       "name": "typicode"
