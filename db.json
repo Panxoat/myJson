@@ -1,6 +1,7 @@
 {
     "posts": [
       { "data": 200, "title": "수선 건" }
+      { "data": 800, "title": "수선 대기 중"}
     ],
     "comments": [
         { "data": 100, "title": "청바지" },
