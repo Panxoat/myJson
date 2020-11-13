@@ -1,6 +1,6 @@
 {
     "posts": [
-      { "data": 200, "title": "수선 건" }
+      { "data": 200, "title": "수선 건" },
       { "data": 800, "title": "수선 대기 중"}
     ],
     "comments": [
@@ -9,7 +9,30 @@
         { "data": 100, "title": "원피스" },
         { "data": 700, "title": "바지" }
     ],
-    "profile": {
-      "name": "typicode"
-    }
+    "profile": [
+      {
+        "name": "바지",
+        "price": "3900",
+        "pick": "10건",
+        "price2": "39,000"
+      },
+      {
+        "name": "청바지",
+        "price": "3900",
+        "pick": "10건",
+        "price2": "39,000"
+      },
+      {
+        "name": "치마",
+        "price": "3900",
+        "pick": "10건",
+        "price2": "39,000"
+      },
+      {
+        "name": "원피스",
+        "price": "3900",
+        "pick": "10건",
+        "price2": "39,000"
+      }
+    ]
   }
